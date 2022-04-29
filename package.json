@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.4",
     "eslint": "^6.7.2",
     "express": "^4.17.1",
     "request": "^2.88.0",
